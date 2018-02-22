@@ -1,5 +1,5 @@
 <html>
-<form action="handler.php">
+<form action="check.php">
 	<fieldset>
 		<legend>Date of Birth</legend>
 		<table>
